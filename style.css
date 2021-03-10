@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1em 1em;
+    font-size: 50px;
+}
+
+.map {
+    background-image: url("icons/map.svg");
+}
